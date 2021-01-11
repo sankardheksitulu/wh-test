@@ -1,0 +1,14 @@
+voila>=0.1.8
+ipyvuetify>=0.1.9
+voila-vuetify>=0.0.1a6
+
+Cython
+matplotlib>=3.2.2
+numpy>=1.18.5
+# opencv-python>=4.1.2
+opencv-python-headless==4.2.0.32
+Pillow
+PyYAML>=5.3
+scipy>=1.4.1
+# torch>=1.6.0
+# torchvision>=0.7.0
